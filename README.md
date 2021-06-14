@@ -1,3 +1,7 @@
+
+
+
+![ToolDemo](https://user-images.githubusercontent.com/26253459/121843055-2c7c4300-ccff-11eb-8f8c-e77f96175df7.PNG)
 # EARS-Rupp-s-template-conversion-
 Automated Conversion of Natural Language Textual Specifications into Requirement Templates (RTs)
 
