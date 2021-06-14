@@ -1,5 +1,6 @@
 # EARS-Rupp-s-template-conversion-
 Automated Conversion of Natural Language Textual Specifications into Requirement Templates (RTs)
+
 Steps to Run the tool:-
 1. Download/Run the source code in jupyter Notebook
 2. Compile all the snippets of code in jupyter Notebook
