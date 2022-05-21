@@ -15,7 +15,7 @@ Steps to Run the tool:-
 7. Run (EARS_template_conversion.ipynb) file in the VS Code
 8. After a successful run, it will open the output window.
 9. Ensure to include vaguness_dictionary and Basic_english_words text files in Jupyter Notebook.
-10. Choose any file from Problem Specifications folder and copy the Requirement Description and Requirement Textual Specification into the Output window. (Remove the heading while copying)
+10. Choose any file from Problem Specifications folder and copy the Requirement Description and Requirement Textual Specification into the Output window.
 
 
 Tool Demo:-
