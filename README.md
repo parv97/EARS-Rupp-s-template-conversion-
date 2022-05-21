@@ -11,7 +11,7 @@ Steps to Run the tool:-
 5. Install few extensions in VS Code for
     a. python
     b. Jupyter notebook
-6. Download or clone code from GitHub: parv97/EARS-Rupp-s-template-conversion-
+6. Download or clone code from GitHub: [gparv97/EARS-Rupp-s-template-conversion-](https://github.com/parv97/EARS-Rupp-s-template-conversion-)
 7. Run (EARS_template_conversion.ipynb) file in the VS Code
 8. After a successful run, it will open the output window.
 9. Ensure to include vaguness_dictionary and Basic_english_words text files in jupyter Notebook.
